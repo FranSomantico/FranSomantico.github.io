@@ -4,6 +4,7 @@ class Contador {
         this.displayNumero = displayNumero
     }
 
+    
     sumar(){
         this.numeroActual = this.numeroActual + 1
         this.actualizarDisplay()
